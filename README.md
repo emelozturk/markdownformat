@@ -6,3 +6,6 @@
 * **burada bold bir seyler var**
 * *burada italik seyler var*
 * *hem italik hem **bold** seyler*
+
+
+![lamb](https://comotion.uw.edu/wp-content/uploads/2017/06/image.jpg)
