@@ -9,3 +9,6 @@
 
 
 ![lamb](https://comotion.uw.edu/wp-content/uploads/2017/06/image.jpg)
+
+unlu dusunur bir sey soyle der:
+> what happens in github stays in github
