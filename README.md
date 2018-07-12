@@ -16,3 +16,5 @@ unlu dusunur bir sey soyle der:
 *
 ~~burasi~~ onemli degil
 * `burasi `onemli ama
+
+> Burada da bir seyler
