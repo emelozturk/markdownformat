@@ -12,3 +12,6 @@
 
 unlu dusunur bir sey soyle der:
 > what happens in github stays in github
+*
+*
+~~burasi~~ onemli
