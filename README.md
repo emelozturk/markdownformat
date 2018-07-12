@@ -15,4 +15,4 @@ unlu dusunur bir sey soyle der:
 *
 *
 ~~burasi~~ onemli degil
-* `burasi onemli ama`
+* `burasi `onemli ama
