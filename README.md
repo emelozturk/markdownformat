@@ -2,3 +2,7 @@
 ## Herhangi Bir Sey
 ###### birtakim seyler
 [buraya google gelecek](https://www.google.com/)
+
+**burada bold bir seyler var**
+*burada italik seyler var*
+*hem italik hem **bold** seyler*
