@@ -14,10 +14,7 @@ unlu dusunur bir sey soyle der:
 > what happens in github stays in github
 
 Python creator Guido Van Rossum says:
-
 > The code is read much more often than it is written.
 
 ~~burasi~~ onemli degil
 * `burasi `onemli ama
-
-> Burada da bir seyler
