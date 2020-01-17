@@ -7,8 +7,7 @@
 * *burada italik seyler var*
 * *hem italik hem **bold** seyler*
 
-
-![lamb](https://comotion.uw.edu/wp-content/uploads/2017/06/image.jpg)
+[lamb](https://images.unsplash.com/photo-1535979863199-3c77338429a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1015&q=80g)
 
 unlu dusunur bir sey soyle der:
 > what happens in github stays in github
